@@ -15,7 +15,6 @@ Introduction to Spring boot and RestController API
 
 ## Question 2: Student Registration
 
-![](https://github.com/NKBelie/RestFull_API_27174/blob/main/Screenshot/student.png)
 ![]()
 ![]()
 
